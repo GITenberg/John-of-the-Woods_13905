@@ -1,0 +1,28 @@
+_repo: John-of-the-Woods_13905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: ''
+gutenberg_issued: '2004-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forest animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+title: John of the Woods
+url: http://www.gutenberg.org/ebooks/13905
